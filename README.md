@@ -5,8 +5,6 @@ problem on the [Bike Sharing Dataset](https://archive.ics.uci.edu/ml/datasets/Bi
 
 ## Setup Instructions
 
-### Log in to the AWS console and create a notebook instance
-
 Download the project materials from our GitHub repository and then cd into the
 ```bikesharing-patterns``` directory.:
 
